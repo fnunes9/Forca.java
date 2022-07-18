@@ -1,0 +1,3 @@
+jar cvfm ForcaFN.jar manifest.mf *.class imagens/*.png
+
+jar cvfm NOMEDOJOGO.jar manifest.mf *.class pastadeimagens/*.png

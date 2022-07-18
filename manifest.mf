@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Fernanda
+Main-Class: Forca
+X-COMMENT: Jogo da Forca para estudos
